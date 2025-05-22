@@ -3,3 +3,4 @@ name = "hegelion"
 version = "0.1.0"
 description = "Dialectical reasoning architecture for LLMs (Thesis → Antithesis → Synthesis)"
 requires-python = ">=3.10"
+# keep defaults in sync with the manifest
